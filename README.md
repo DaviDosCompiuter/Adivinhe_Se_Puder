@@ -7,7 +7,7 @@ O jogo da forca é um jogo em que o jogador tem que acertar qual é a palavra pr
 Você deve desenvolver a forca que é a nova modinha na internet: [wordlegame](https://wordlegame.org/pt). 
 
 Veja as regras na imagem abaixo:
-![img](https://github.com/DaviDosCompiuter/Adivinhe_Se_Puder/blob/main/doc/imagens/Regras.png = 250x250)
+<img src="https://github.com/DaviDosCompiuter/Adivinhe_Se_Puder/blob/main/doc/imagens/Regras.png" width="400" height="400" />
 
 # Requisitos Funcionais
 ```
