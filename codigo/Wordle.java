@@ -19,7 +19,7 @@ public class Wordle {
   public Wordle (int tamanhoPalavra,int tentativas) throws IOException {
     listaPalavras = new ArrayList<>();
     in = new Scanner(System.in);
-    arquivoPalavras = new Scanner(new File(tamanhoPalavra+".txt"));
+    arquivoPalavras = new Scanner(new File("dicionario/"+tamanhoPalavra+".txt"));
     rand = new Random();
     tabela = new char[tentativas][tamanhoPalavra];
     palpiteCount = 0;
